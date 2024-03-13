@@ -436,8 +436,8 @@ div#sea {
     position:center;
     left:-800px;
     bottom:200px;
-    width:200px;
-    height:500px;
+    min-width:200px;
+    min-height:500px;
   }
 
   div#beach {
