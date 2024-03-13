@@ -41,9 +41,9 @@ div#video iframe {
 
 #people {
   
-  bottom: 650px;
-  left: 400px;
-  width: 400px;
+  bottom: 150px;
+  left: 100px;
+  width: 100px;
 }
 
 #car {
@@ -433,7 +433,7 @@ div#sea {
   }
 
   #people {
-    left:1200px;
+    left:-800px;
     bottom:200px;
     width:200px;
     height:500px;
