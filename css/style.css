@@ -433,6 +433,7 @@ div#sea {
   }
 
   #people {
+    position:center;
     left:-800px;
     bottom:200px;
     width:200px;
