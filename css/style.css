@@ -40,8 +40,8 @@ div#video iframe {
 }
 
 #people {
-  position: absolute;
-  bottom: 65px;
+  
+  bottom: 650px;
   left: 400px;
   width: 1400px;
 }
@@ -433,8 +433,8 @@ div#sea {
   }
 
   #people {
-    left:auto;
-    bottom:auto;
+    left:800px;
+    bottom:200px;
     width:500px;
     height:700px;
   }
